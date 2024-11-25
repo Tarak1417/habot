@@ -83,7 +83,7 @@ const Landing = () => {
       <div className="container">
       <div className="video-section">
         <iframe
-          width="560"
+          width="auto"
           height="315"
           src="https://www.youtube.com/embed/example-video-id"
           title="YouTube video player"
